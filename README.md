@@ -76,9 +76,9 @@ Klik Icon Untuk melanjutkan:
 
 ---
 
-### 📂 Proyek Unggulan
-- 💻 **[RepoTugasRizky](https://github.com/rnld-devcode/RepoTugasRizky)** — Repositori utama kompilasi tugas pemrograman Pascal & Struktur Data.
-- 💻 **[TugasPraktikum](https://github.com/rnld-devcode/Praktikum_2510010102_M.RizkyRinaldy)** — Repositori utama kompilasi tugas Praktikum.
+### 📂 Project Website Portofolio
+- **[Code](https://github.com/rnld-devcode/next-porto)** — Repo Praktek Web Design Menggunakan Next.js dan Tailwind CSS.
+- **[Demo](https://rizky-rinaldy.vercel.app)** — Live Demo Website menggunakn domain .vercel.app.
 
 ---
 
