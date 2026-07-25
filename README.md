@@ -62,9 +62,9 @@ Klik Icon Untuk melanjutkan:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizky-rinaldy/rizky-rinaldy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizky-rinaldy/rizky-rinaldy/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rnld-devcode/rizky-rinaldy/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -77,22 +77,22 @@ Klik Icon Untuk melanjutkan:
 ---
 
 ### 📂 Project Website Portofolio
-- **[Code](https://github.com/rnld-devcode/next-porto)** — Repo Praktek Web Design Menggunakan Next.js dan Tailwind CSS.
+- **[Code](https://github.com/rizky-rinaldy/next-porto)** — Repo Praktek Web Design Menggunakan Next.js dan Tailwind CSS.
 - **[Demo](https://rizky-rinaldy.vercel.app)** — Live Demo Website menggunakn domain .vercel.app.
 
 ---
 
 ### 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizky-rinaldy&show_icons=true&theme=radical" alt="Statistik GitHub" />
 </p>
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rizky-rinaldy&theme=radical" alt="GitHub Streak" />
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical" alt="Bahasa Populer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-rinaldy&layout=compact&theme=radical" alt="Bahasa Populer" />
 </p>
 <br>
 <p align="center">
